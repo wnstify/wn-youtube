@@ -1,0 +1,1054 @@
+{
+  "version": "2026.1",
+  "lastUpdated": "2026-01-11",
+  "categories": [
+    {
+      "id": "infrastructure",
+      "name": "Self-Hosting Infrastructure",
+      "label": "infrastructure",
+      "color": "0366d6"
+    },
+    {
+      "id": "security",
+      "name": "Zero Trust & Security",
+      "label": "security",
+      "color": "d73a4a"
+    },
+    {
+      "id": "monitoring",
+      "name": "Monitoring & Observability",
+      "label": "monitoring",
+      "color": "7057ff"
+    },
+    {
+      "id": "media",
+      "name": "Media & Entertainment",
+      "label": "media",
+      "color": "e99695"
+    },
+    {
+      "id": "productivity",
+      "name": "Productivity & Documents",
+      "label": "productivity",
+      "color": "0e8a16"
+    },
+    {
+      "id": "communication",
+      "name": "Communication & Collaboration",
+      "label": "communication",
+      "color": "1d76db"
+    },
+    {
+      "id": "devops",
+      "name": "DevOps & Automation",
+      "label": "devops",
+      "color": "5319e7"
+    },
+    {
+      "id": "dns",
+      "name": "DNS & Network Services",
+      "label": "dns-network",
+      "color": "fbca04"
+    },
+    {
+      "id": "analytics",
+      "name": "Analytics & Business Intelligence",
+      "label": "analytics",
+      "color": "b60205"
+    },
+    {
+      "id": "finance",
+      "name": "Finance & Business",
+      "label": "finance",
+      "color": "006b75"
+    },
+    {
+      "id": "bookmarks",
+      "name": "Bookmarks & RSS",
+      "label": "bookmarks-rss",
+      "color": "d4c5f9"
+    },
+    {
+      "id": "privacy",
+      "name": "Privacy Stack",
+      "label": "privacy",
+      "color": "0052cc"
+    },
+    {
+      "id": "misc",
+      "name": "Miscellaneous Tools",
+      "label": "misc-tools",
+      "color": "c5def5"
+    },
+    {
+      "id": "hosting",
+      "name": "Hosting & Server Management",
+      "label": "hosting",
+      "color": "f9d0c4"
+    }
+  ],
+  "complexityLabels": [
+    { "id": "beginner", "name": "Beginner", "color": "0e8a16" },
+    { "id": "intermediate", "name": "Intermediate", "color": "fbca04" },
+    { "id": "advanced", "name": "Advanced", "color": "d73a4a" }
+  ],
+  "videos": [
+    {
+      "id": "docker-compose-mastery",
+      "title": "Docker Compose Mastery",
+      "category": "infrastructure",
+      "complexity": "intermediate",
+      "series": false,
+      "notes": "Networks, volumes, multi-container deep dive"
+    },
+    {
+      "id": "dockge",
+      "title": "Dockge: Simpler Docker Management",
+      "category": "infrastructure",
+      "complexity": "beginner",
+      "series": false,
+      "notes": "From Uptime Kuma dev, cleaner than Portainer"
+    },
+    {
+      "id": "coolify",
+      "title": "Coolify: Self-Hosted Heroku/Vercel",
+      "category": "infrastructure",
+      "complexity": "beginner",
+      "series": false,
+      "notes": "One-click deployments, growing fast"
+    },
+    {
+      "id": "proxmox-beginners",
+      "title": "Proxmox for Beginners",
+      "category": "infrastructure",
+      "complexity": "intermediate",
+      "series": true,
+      "notes": "Virtualization foundation"
+    },
+    {
+      "id": "proxmox-backup-server",
+      "title": "Proxmox Backup Server",
+      "category": "infrastructure",
+      "complexity": "intermediate",
+      "series": false,
+      "notes": "Incremental backups, deduplication"
+    },
+    {
+      "id": "restic-autorestic",
+      "title": "Restic + Autorestic: Modern Backups",
+      "category": "infrastructure",
+      "complexity": "intermediate",
+      "series": false,
+      "notes": "Better than Borg for cloud backups, 3-2-1 rule"
+    },
+    {
+      "id": "backup-comparison",
+      "title": "Duplicati vs Restic vs Borg",
+      "category": "infrastructure",
+      "complexity": "intermediate",
+      "series": false,
+      "notes": "Backup tool comparison"
+    },
+    {
+      "id": "reverse-proxy-showdown",
+      "title": "Reverse Proxy Showdown (Traefik vs Caddy vs NPM)",
+      "category": "infrastructure",
+      "complexity": "intermediate",
+      "series": false,
+      "notes": "Comparison video, high engagement"
+    },
+    {
+      "id": "caddy",
+      "title": "Caddy: The Modern Web Server",
+      "category": "infrastructure",
+      "complexity": "beginner",
+      "series": false,
+      "notes": "Auto HTTPS, simple config"
+    },
+    {
+      "id": "traefik-deep-dive",
+      "title": "Traefik Deep Dive",
+      "category": "infrastructure",
+      "complexity": "intermediate",
+      "series": false,
+      "notes": "Labels, middleware, dashboard"
+    },
+    {
+      "id": "homepage-dashboard",
+      "title": "Homepage Dashboard",
+      "category": "infrastructure",
+      "complexity": "beginner",
+      "series": false,
+      "notes": "Beautiful homelab dashboard"
+    },
+    {
+      "id": "homarr-dashboard",
+      "title": "Homarr Dashboard",
+      "category": "infrastructure",
+      "complexity": "beginner",
+      "series": false,
+      "notes": "Alternative to Homepage"
+    },
+    {
+      "id": "watchtower",
+      "title": "Watchtower: Automated Docker Updates",
+      "category": "infrastructure",
+      "complexity": "beginner",
+      "series": false,
+      "notes": "Set and forget container updates"
+    },
+    {
+      "id": "diun",
+      "title": "Diun: Docker Image Update Notifier",
+      "category": "infrastructure",
+      "complexity": "beginner",
+      "series": false,
+      "notes": "Get notified, decide when to update"
+    },
+    {
+      "id": "yacht",
+      "title": "Yacht: Docker Management UI",
+      "category": "infrastructure",
+      "complexity": "beginner",
+      "series": false,
+      "notes": "Lightweight Portainer alternative"
+    },
+    {
+      "id": "zero-trust-small-business",
+      "title": "Zero Trust Security for Small Business",
+      "category": "security",
+      "complexity": "intermediate",
+      "series": false,
+      "notes": "Research complete. High business value."
+    },
+    {
+      "id": "authelia",
+      "title": "Authelia: Lightweight SSO",
+      "category": "security",
+      "complexity": "intermediate",
+      "series": false,
+      "notes": "Simpler than Authentik, 2FA/MFA"
+    },
+    {
+      "id": "keycloak",
+      "title": "Keycloak for Self-Hosters",
+      "category": "security",
+      "complexity": "advanced",
+      "series": false,
+      "notes": "Enterprise-grade identity management"
+    },
+    {
+      "id": "vaultwarden",
+      "title": "Vaultwarden: Self-Hosted Password Manager",
+      "category": "security",
+      "complexity": "beginner",
+      "series": false,
+      "notes": "Bitwarden compatible, emergency access"
+    },
+    {
+      "id": "passbolt",
+      "title": "Passbolt: Team Password Manager",
+      "category": "security",
+      "complexity": "intermediate",
+      "series": false,
+      "notes": "Open source, team-focused"
+    },
+    {
+      "id": "fail2ban-advanced",
+      "title": "Fail2ban Advanced Configuration",
+      "category": "security",
+      "complexity": "intermediate",
+      "series": false,
+      "notes": "Custom jails, notifications"
+    },
+    {
+      "id": "ufw-firewall",
+      "title": "UFW Firewall Mastery",
+      "category": "security",
+      "complexity": "beginner",
+      "series": false,
+      "notes": "Linux firewall basics done right"
+    },
+    {
+      "id": "wazuh",
+      "title": "Wazuh: Open Source SIEM",
+      "category": "security",
+      "complexity": "advanced",
+      "series": true,
+      "notes": "Security monitoring, compliance"
+    },
+    {
+      "id": "server-hardening",
+      "title": "Server Hardening Checklist",
+      "category": "security",
+      "complexity": "intermediate",
+      "series": false,
+      "notes": "SSH, users, permissions, auditing"
+    },
+    {
+      "id": "ssl-tls-deep-dive",
+      "title": "SSL/TLS Deep Dive",
+      "category": "security",
+      "complexity": "intermediate",
+      "series": false,
+      "notes": "Certificates, Let's Encrypt, wildcards"
+    },
+    {
+      "id": "infisical",
+      "title": "Infisical: Secrets Management",
+      "category": "security",
+      "complexity": "intermediate",
+      "series": false,
+      "notes": "Open source HashiCorp Vault alternative"
+    },
+    {
+      "id": "security-auditing-homelab",
+      "title": "Security Auditing Your Homelab",
+      "category": "security",
+      "complexity": "intermediate",
+      "series": false,
+      "notes": "Tools and techniques"
+    },
+    {
+      "id": "grafana-prometheus",
+      "title": "Grafana + Prometheus Setup",
+      "category": "monitoring",
+      "complexity": "intermediate",
+      "series": true,
+      "seriesInfo": "Part 1/2",
+      "notes": "Beyond Uptime Kuma, professional monitoring"
+    },
+    {
+      "id": "grafana-loki",
+      "title": "Grafana + Loki for Logs",
+      "category": "monitoring",
+      "complexity": "intermediate",
+      "series": true,
+      "seriesInfo": "Part 2/2",
+      "notes": "Centralized logging"
+    },
+    {
+      "id": "beszel",
+      "title": "Beszel: Lightweight Server Monitoring",
+      "category": "monitoring",
+      "complexity": "beginner",
+      "series": false,
+      "notes": "Simple, beautiful, low resources"
+    },
+    {
+      "id": "glances",
+      "title": "Glances: System Monitoring",
+      "category": "monitoring",
+      "complexity": "beginner",
+      "series": false,
+      "notes": "Terminal-based, comprehensive"
+    },
+    {
+      "id": "netdata-advanced",
+      "title": "Netdata Advanced",
+      "category": "monitoring",
+      "complexity": "intermediate",
+      "series": false,
+      "notes": "Already covered basics, go deeper"
+    },
+    {
+      "id": "influxdb-telegraf",
+      "title": "InfluxDB + Telegraf",
+      "category": "monitoring",
+      "complexity": "intermediate",
+      "series": false,
+      "notes": "Time-series data collection"
+    },
+    {
+      "id": "gatus",
+      "title": "Gatus: Health Dashboard",
+      "category": "monitoring",
+      "complexity": "beginner",
+      "series": false,
+      "notes": "Simple endpoint monitoring"
+    },
+    {
+      "id": "healthchecks-io",
+      "title": "Healthchecks.io Self-Hosted",
+      "category": "monitoring",
+      "complexity": "beginner",
+      "series": false,
+      "notes": "Cron job monitoring"
+    },
+    {
+      "id": "changedetection",
+      "title": "ChangeDetection.io",
+      "category": "monitoring",
+      "complexity": "beginner",
+      "series": false,
+      "notes": "Monitor website changes"
+    },
+    {
+      "id": "uptime-kuma-advanced",
+      "title": "Uptime Kuma Advanced",
+      "category": "monitoring",
+      "complexity": "intermediate",
+      "series": false,
+      "notes": "Custom notifications, API, status pages"
+    },
+    {
+      "id": "immich",
+      "title": "Immich: Google Photos Killer",
+      "category": "media",
+      "complexity": "beginner",
+      "series": false,
+      "notes": "#1 requested, mobile backup, face recognition"
+    },
+    {
+      "id": "jellyfin",
+      "title": "Jellyfin Complete Setup",
+      "category": "media",
+      "complexity": "beginner",
+      "series": true,
+      "seriesInfo": "Part 1/3",
+      "notes": "Open source Plex alternative"
+    },
+    {
+      "id": "arr-stack",
+      "title": "*arr Stack (Sonarr, Radarr, Prowlarr)",
+      "category": "media",
+      "complexity": "intermediate",
+      "series": true,
+      "seriesInfo": "Part 2/3",
+      "notes": "Media automation"
+    },
+    {
+      "id": "jellyseerr",
+      "title": "Jellyseerr: Request Management",
+      "category": "media",
+      "complexity": "beginner",
+      "series": true,
+      "seriesInfo": "Part 3/3",
+      "notes": "Users request media"
+    },
+    {
+      "id": "navidrome",
+      "title": "Navidrome: Self-Hosted Spotify",
+      "category": "media",
+      "complexity": "beginner",
+      "series": false,
+      "notes": "Music streaming, Subsonic compatible"
+    },
+    {
+      "id": "kavita",
+      "title": "Kavita: Ebook & Comic Server",
+      "category": "media",
+      "complexity": "beginner",
+      "series": false,
+      "notes": "Calibre alternative with better UI"
+    },
+    {
+      "id": "calibre-web",
+      "title": "Calibre-Web",
+      "category": "media",
+      "complexity": "beginner",
+      "series": false,
+      "notes": "Ebook library management"
+    },
+    {
+      "id": "audiobookshelf",
+      "title": "Audiobookshelf",
+      "category": "media",
+      "complexity": "beginner",
+      "series": false,
+      "notes": "Audiobook server, podcast support"
+    },
+    {
+      "id": "photoprism",
+      "title": "PhotoPrism: AI Photo Management",
+      "category": "media",
+      "complexity": "intermediate",
+      "series": false,
+      "notes": "Alternative to Immich"
+    },
+    {
+      "id": "stump",
+      "title": "Stump: Comic/Manga Server",
+      "category": "media",
+      "complexity": "beginner",
+      "series": false,
+      "notes": "Modern Komga alternative"
+    },
+    {
+      "id": "peertube",
+      "title": "PeerTube: Self-Hosted YouTube",
+      "category": "media",
+      "complexity": "intermediate",
+      "series": false,
+      "notes": "Federated video platform"
+    },
+    {
+      "id": "owncast",
+      "title": "Owncast: Self-Hosted Twitch",
+      "category": "media",
+      "complexity": "beginner",
+      "series": false,
+      "notes": "Live streaming server"
+    },
+    {
+      "id": "paperless-ngx",
+      "title": "Paperless-NGX: Go Paperless",
+      "category": "productivity",
+      "complexity": "beginner",
+      "series": false,
+      "notes": "Document management, OCR"
+    },
+    {
+      "id": "docmost",
+      "title": "Docmost: Notion Alternative",
+      "category": "productivity",
+      "complexity": "beginner",
+      "series": false,
+      "notes": "Real-time collaboration, open source"
+    },
+    {
+      "id": "outline",
+      "title": "Outline: Team Wiki",
+      "category": "productivity",
+      "complexity": "intermediate",
+      "series": false,
+      "notes": "Beautiful, Notion-like wiki"
+    },
+    {
+      "id": "wikijs",
+      "title": "Wiki.js: Modern Wiki",
+      "category": "productivity",
+      "complexity": "beginner",
+      "series": false,
+      "notes": "Multiple editors, Git sync"
+    },
+    {
+      "id": "hedgedoc",
+      "title": "HedgeDoc: Collaborative Markdown",
+      "category": "productivity",
+      "complexity": "beginner",
+      "series": false,
+      "notes": "Real-time markdown editing"
+    },
+    {
+      "id": "stirling-pdf-advanced",
+      "title": "Stirling PDF Advanced",
+      "category": "productivity",
+      "complexity": "beginner",
+      "series": false,
+      "notes": "Already covered basics, go deeper"
+    },
+    {
+      "id": "plane",
+      "title": "Plane.so: Jira/Linear Alternative",
+      "category": "productivity",
+      "complexity": "beginner",
+      "series": false,
+      "notes": "Modern project management"
+    },
+    {
+      "id": "vikunja-advanced",
+      "title": "Vikunja Advanced",
+      "category": "productivity",
+      "complexity": "intermediate",
+      "series": false,
+      "notes": "Build on existing coverage"
+    },
+    {
+      "id": "focalboard",
+      "title": "Focalboard: Trello Alternative",
+      "category": "productivity",
+      "complexity": "beginner",
+      "series": false,
+      "notes": "Kanban boards, Mattermost integration"
+    },
+    {
+      "id": "openproject",
+      "title": "OpenProject",
+      "category": "productivity",
+      "complexity": "intermediate",
+      "series": false,
+      "notes": "Full project management suite"
+    },
+    {
+      "id": "standard-notes",
+      "title": "Standard Notes: Encrypted Notes",
+      "category": "productivity",
+      "complexity": "beginner",
+      "series": false,
+      "notes": "Privacy-focused note taking"
+    },
+    {
+      "id": "trilium",
+      "title": "Trilium Notes: Personal Knowledge Base",
+      "category": "productivity",
+      "complexity": "intermediate",
+      "series": false,
+      "notes": "Hierarchical notes, scripting"
+    },
+    {
+      "id": "joplin-server",
+      "title": "Joplin Server",
+      "category": "productivity",
+      "complexity": "beginner",
+      "series": false,
+      "notes": "Note sync server"
+    },
+    {
+      "id": "matrix-element",
+      "title": "Matrix + Element: Discord Alternative",
+      "category": "communication",
+      "complexity": "intermediate",
+      "series": true,
+      "notes": "Federated, encrypted chat"
+    },
+    {
+      "id": "mattermost",
+      "title": "Mattermost: Slack Alternative",
+      "category": "communication",
+      "complexity": "intermediate",
+      "series": false,
+      "notes": "Team communication"
+    },
+    {
+      "id": "jitsi",
+      "title": "Jitsi Meet: Video Conferencing",
+      "category": "communication",
+      "complexity": "beginner",
+      "series": false,
+      "notes": "Open source Zoom alternative"
+    },
+    {
+      "id": "mumble",
+      "title": "Mumble: Voice Chat Server",
+      "category": "communication",
+      "complexity": "beginner",
+      "series": false,
+      "notes": "Low latency, gaming focused"
+    },
+    {
+      "id": "zulip",
+      "title": "Zulip: Threaded Team Chat",
+      "category": "communication",
+      "complexity": "intermediate",
+      "series": false,
+      "notes": "Better than Slack for async"
+    },
+    {
+      "id": "rocketchat",
+      "title": "Rocket.Chat",
+      "category": "communication",
+      "complexity": "intermediate",
+      "series": false,
+      "notes": "Feature-rich team chat"
+    },
+    {
+      "id": "gitea",
+      "title": "Gitea: Self-Hosted GitHub",
+      "category": "devops",
+      "complexity": "beginner",
+      "series": false,
+      "notes": "Lightweight, CI/CD included"
+    },
+    {
+      "id": "gitea-actions",
+      "title": "Gitea Actions Deep Dive",
+      "category": "devops",
+      "complexity": "intermediate",
+      "series": false,
+      "notes": "GitHub Actions compatible"
+    },
+    {
+      "id": "woodpecker-ci",
+      "title": "Woodpecker CI",
+      "category": "devops",
+      "complexity": "intermediate",
+      "series": false,
+      "notes": "Drone fork, Gitea integration"
+    },
+    {
+      "id": "ansible-beginners",
+      "title": "Ansible for Beginners",
+      "category": "devops",
+      "complexity": "intermediate",
+      "series": false,
+      "notes": "Automate server setup"
+    },
+    {
+      "id": "ansible-playbooks",
+      "title": "Ansible Playbooks for Self-Hosting",
+      "category": "devops",
+      "complexity": "intermediate",
+      "series": false,
+      "notes": "Practical automation"
+    },
+    {
+      "id": "n8n-ai-workflows",
+      "title": "n8n + AI Workflows",
+      "category": "devops",
+      "complexity": "intermediate",
+      "series": false,
+      "notes": "Build on existing n8n coverage"
+    },
+    {
+      "id": "activepieces",
+      "title": "Activepieces: n8n Alternative",
+      "category": "devops",
+      "complexity": "beginner",
+      "series": false,
+      "notes": "More user-friendly automation"
+    },
+    {
+      "id": "huginn",
+      "title": "Huginn: Advanced Automation",
+      "category": "devops",
+      "complexity": "advanced",
+      "series": false,
+      "notes": "Complex event-based automation"
+    },
+    {
+      "id": "code-server",
+      "title": "Code-Server: VS Code in Browser",
+      "category": "devops",
+      "complexity": "beginner",
+      "series": false,
+      "notes": "Remote development"
+    },
+    {
+      "id": "adguard-home-advanced",
+      "title": "AdGuard Home Advanced",
+      "category": "dns",
+      "complexity": "intermediate",
+      "series": false,
+      "notes": "Beyond basics, custom filters"
+    },
+    {
+      "id": "pihole-vs-adguard-2026",
+      "title": "Pi-hole vs AdGuard Home 2026",
+      "category": "dns",
+      "complexity": "beginner",
+      "series": false,
+      "notes": "Updated comparison"
+    },
+    {
+      "id": "technitium",
+      "title": "Technitium DNS Server",
+      "category": "dns",
+      "complexity": "intermediate",
+      "series": false,
+      "notes": "Full-featured DNS server"
+    },
+    {
+      "id": "blocky",
+      "title": "Blocky: DNS Proxy",
+      "category": "dns",
+      "complexity": "beginner",
+      "series": false,
+      "notes": "Lightweight, config-based"
+    },
+    {
+      "id": "unbound",
+      "title": "Unbound: Recursive DNS",
+      "category": "dns",
+      "complexity": "intermediate",
+      "series": false,
+      "notes": "Privacy-focused DNS resolver"
+    },
+    {
+      "id": "plausible-advanced",
+      "title": "Plausible Analytics Advanced",
+      "category": "analytics",
+      "complexity": "intermediate",
+      "series": false,
+      "notes": "Build on existing coverage"
+    },
+    {
+      "id": "umami",
+      "title": "Umami: Simple Analytics",
+      "category": "analytics",
+      "complexity": "beginner",
+      "series": false,
+      "notes": "Privacy-focused, lightweight"
+    },
+    {
+      "id": "matomo",
+      "title": "Matomo: Google Analytics Alternative",
+      "category": "analytics",
+      "complexity": "intermediate",
+      "series": false,
+      "notes": "Full-featured analytics"
+    },
+    {
+      "id": "posthog",
+      "title": "PostHog: Product Analytics",
+      "category": "analytics",
+      "complexity": "intermediate",
+      "series": false,
+      "notes": "Feature flags, session recording"
+    },
+    {
+      "id": "shynet",
+      "title": "Shynet: Minimal Analytics",
+      "category": "analytics",
+      "complexity": "beginner",
+      "series": false,
+      "notes": "No cookies, no JS"
+    },
+    {
+      "id": "firefly-iii",
+      "title": "Firefly III: Personal Finance",
+      "category": "finance",
+      "complexity": "beginner",
+      "series": false,
+      "notes": "Budget tracking, bank import"
+    },
+    {
+      "id": "actual-budget",
+      "title": "Actual Budget",
+      "category": "finance",
+      "complexity": "beginner",
+      "series": false,
+      "notes": "YNAB alternative"
+    },
+    {
+      "id": "invoice-ninja",
+      "title": "Invoice Ninja: Invoicing",
+      "category": "finance",
+      "complexity": "intermediate",
+      "series": false,
+      "notes": "Professional invoicing"
+    },
+    {
+      "id": "erpnext",
+      "title": "ERPNext for Small Business",
+      "category": "finance",
+      "complexity": "advanced",
+      "series": true,
+      "notes": "Full ERP system"
+    },
+    {
+      "id": "monica-crm",
+      "title": "Monica CRM: Personal CRM",
+      "category": "finance",
+      "complexity": "beginner",
+      "series": false,
+      "notes": "Relationship management"
+    },
+    {
+      "id": "twenty-crm",
+      "title": "Twenty CRM",
+      "category": "finance",
+      "complexity": "beginner",
+      "series": false,
+      "notes": "Modern open source CRM"
+    },
+    {
+      "id": "freshrss",
+      "title": "FreshRSS: Take Back Your News",
+      "category": "bookmarks",
+      "complexity": "beginner",
+      "series": false,
+      "notes": "RSS reader, API support"
+    },
+    {
+      "id": "miniflux",
+      "title": "Miniflux: Minimal RSS",
+      "category": "bookmarks",
+      "complexity": "beginner",
+      "series": false,
+      "notes": "Fast, simple RSS reader"
+    },
+    {
+      "id": "linkwarden",
+      "title": "Linkwarden: Bookmark Manager",
+      "category": "bookmarks",
+      "complexity": "beginner",
+      "series": false,
+      "notes": "AI tagging, collaboration"
+    },
+    {
+      "id": "wallabag",
+      "title": "Wallabag: Read-It-Later",
+      "category": "bookmarks",
+      "complexity": "beginner",
+      "series": false,
+      "notes": "Pocket alternative"
+    },
+    {
+      "id": "hoarder",
+      "title": "Hoarder: AI Bookmark Manager",
+      "category": "bookmarks",
+      "complexity": "beginner",
+      "series": false,
+      "notes": "Local AI for organization"
+    },
+    {
+      "id": "shaarli",
+      "title": "Shaarli: Personal Bookmarks",
+      "category": "bookmarks",
+      "complexity": "beginner",
+      "series": false,
+      "notes": "Simple, fast, no database"
+    },
+    {
+      "id": "privacy-stack-2026",
+      "title": "Privacy Stack 2026",
+      "category": "privacy",
+      "complexity": "beginner",
+      "series": false,
+      "notes": "AdGuard + SearXNG + LibreChat combo"
+    },
+    {
+      "id": "searxng",
+      "title": "SearXNG: Private Search",
+      "category": "privacy",
+      "complexity": "beginner",
+      "series": false,
+      "notes": "Metasearch engine"
+    },
+    {
+      "id": "librechat",
+      "title": "LibreChat: Private AI Chat",
+      "category": "privacy",
+      "complexity": "beginner",
+      "series": false,
+      "notes": "Multi-provider AI interface"
+    },
+    {
+      "id": "whoogle",
+      "title": "Whoogle: Google Proxy",
+      "category": "privacy",
+      "complexity": "beginner",
+      "series": false,
+      "notes": "Google results without tracking"
+    },
+    {
+      "id": "invidious",
+      "title": "Invidious: YouTube Frontend",
+      "category": "privacy",
+      "complexity": "beginner",
+      "series": false,
+      "notes": "Privacy-respecting YouTube"
+    },
+    {
+      "id": "nitter",
+      "title": "Nitter: Twitter Frontend",
+      "category": "privacy",
+      "complexity": "beginner",
+      "series": false,
+      "notes": "Privacy-respecting Twitter"
+    },
+    {
+      "id": "teddit-libreddit",
+      "title": "Teddit/Libreddit: Reddit Frontend",
+      "category": "privacy",
+      "complexity": "beginner",
+      "series": false,
+      "notes": "Privacy-respecting Reddit"
+    },
+    {
+      "id": "it-tools",
+      "title": "IT-Tools: Developer Utilities",
+      "category": "misc",
+      "complexity": "beginner",
+      "series": false,
+      "notes": "80+ useful tools"
+    },
+    {
+      "id": "cyberchef",
+      "title": "CyberChef: Data Analysis",
+      "category": "misc",
+      "complexity": "intermediate",
+      "series": false,
+      "notes": "Swiss army knife for data"
+    },
+    {
+      "id": "excalidraw",
+      "title": "Excalidraw: Whiteboard",
+      "category": "misc",
+      "complexity": "beginner",
+      "series": false,
+      "notes": "Collaborative diagrams"
+    },
+    {
+      "id": "drawio",
+      "title": "Draw.io Self-Hosted",
+      "category": "misc",
+      "complexity": "beginner",
+      "series": false,
+      "notes": "Diagram editor"
+    },
+    {
+      "id": "mealie",
+      "title": "Mealie: Recipe Management",
+      "category": "misc",
+      "complexity": "beginner",
+      "series": false,
+      "notes": "Family-friendly, meal planning"
+    },
+    {
+      "id": "tandoor",
+      "title": "Tandoor Recipes",
+      "category": "misc",
+      "complexity": "beginner",
+      "series": false,
+      "notes": "Alternative recipe manager"
+    },
+    {
+      "id": "homebox",
+      "title": "Homebox: Home Inventory",
+      "category": "misc",
+      "complexity": "beginner",
+      "series": false,
+      "notes": "Track your stuff"
+    },
+    {
+      "id": "grocy",
+      "title": "Grocy: Household Management",
+      "category": "misc",
+      "complexity": "beginner",
+      "series": false,
+      "notes": "Groceries, chores, inventory"
+    },
+    {
+      "id": "kimai",
+      "title": "Kimai: Time Tracking",
+      "category": "misc",
+      "complexity": "beginner",
+      "series": false,
+      "notes": "Project time tracking"
+    },
+    {
+      "id": "traggo",
+      "title": "Traggo: Simple Time Tracking",
+      "category": "misc",
+      "complexity": "beginner",
+      "series": false,
+      "notes": "Tag-based time tracking"
+    },
+    {
+      "id": "xcloud",
+      "title": "XCloud: Server Management Platform",
+      "category": "hosting",
+      "complexity": "beginner",
+      "series": true,
+      "notes": "https://xcloud.host - Open source hosting panel"
+    },
+    {
+      "id": "caprover",
+      "title": "CapRover: PaaS for Docker",
+      "category": "hosting",
+      "complexity": "intermediate",
+      "series": false,
+      "notes": "Heroku-like, Docker-based, Apache 2.0"
+    },
+    {
+      "id": "dokku",
+      "title": "Dokku: Mini Heroku",
+      "category": "hosting",
+      "complexity": "intermediate",
+      "series": false,
+      "notes": "Git push deployments, MIT license"
+    }
+  ]
+}

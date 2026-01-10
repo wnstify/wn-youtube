@@ -1,0 +1,82 @@
+name: Video Suggestion
+description: Suggest a new video topic for the Webnestify channel
+title: "[Suggestion] "
+labels: ["suggestion", "voting"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for suggesting a video topic! Please fill out the form below.
+
+        **Note**: We only cover open source projects.
+
+  - type: input
+    id: topic
+    attributes:
+      label: Video Topic
+      description: What should the video be about?
+      placeholder: e.g., "Immich Setup Tutorial"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      options:
+        - Self-Hosting Infrastructure
+        - Zero Trust & Security
+        - Monitoring & Observability
+        - Media & Entertainment
+        - Productivity & Documents
+        - Communication & Collaboration
+        - DevOps & Automation
+        - DNS & Network Services
+        - Analytics & Business Intelligence
+        - Finance & Business
+        - Bookmarks & RSS
+        - Privacy Stack
+        - Miscellaneous Tools
+        - Hosting & Server Management
+    validations:
+      required: true
+
+  - type: dropdown
+    id: complexity
+    attributes:
+      label: Complexity
+      description: How complex is this topic?
+      options:
+        - Beginner
+        - Intermediate
+        - Advanced
+    validations:
+      required: true
+
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: Why would this video be valuable? What should it cover?
+      placeholder: Explain what you'd like to learn or see covered
+    validations:
+      required: true
+
+  - type: input
+    id: project-url
+    attributes:
+      label: Project URL
+      description: Link to the project (GitHub, website, etc.)
+      placeholder: e.g., https://github.com/immich-app/immich
+    validations:
+      required: false
+
+  - type: checkboxes
+    id: open-source
+    attributes:
+      label: Confirmation
+      options:
+        - label: This tool/project is open source
+          required: true
+        - label: I searched existing issues and this topic hasn't been suggested yet
+          required: true

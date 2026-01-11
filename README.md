@@ -1,20 +1,32 @@
-# Webnestify YouTube Roadmap
+# Webnestify YouTube
 
-Vote on upcoming video topics for the [@webnestify](https://youtube.com/@webnestify) YouTube channel.
+Community hub for the [@webnestify](https://youtube.com/@webnestify) YouTube channel.
 
-## How to Vote
+## Video Library
+
+**[Browse 128 Published Videos](VIDEOS.md)** - Organized by category for easy discovery.
+
+Popular categories: Self-Hosting | Security | Cloudflare | WordPress | Docker | VPN | Monitoring
+
+---
+
+## Roadmap & Voting
+
+Vote on upcoming video topics to help prioritize content.
+
+### How to Vote
 
 1. Browse the [Issues](../../issues) to see proposed video topics
 2. Give a 👍 reaction to topics you want to see
 3. The most voted topics get prioritized
 
-## How to Suggest a Topic
+### How to Suggest a Topic
 
 1. [Open a new issue](../../issues/new?template=video-suggestion.yml)
 2. Describe the topic and why it would be valuable
 3. Community votes determine priority
 
-## Current Focus Areas
+### Current Focus Areas
 
 - Self-hosting & Infrastructure
 - Zero Trust Security
@@ -22,13 +34,15 @@ Vote on upcoming video topics for the [@webnestify](https://youtube.com/@webnest
 - DevOps & Automation
 - Privacy & Open Source
 
-## Channel Links
+---
 
-- [YouTube](https://youtube.com/@webnestify)
-- [Discord](https://wnstify.cc/discord)
-- [Website](https://webnestify.cloud)
-- [Twitter](https://twitter.com/webnestify)
-- [LinkedIn](https://linkedin.com/company/webnestify)
+## Connect
+
+- [YouTube](https://youtube.com/@webnestify) - Subscribe
+- [Discord](https://wnstify.cc/discord) - Community
+- [Website](https://webnestify.cloud) - Services
+- [Twitter](https://twitter.com/webnestify) - Updates
+- [LinkedIn](https://linkedin.com/company/webnestify) - Professional
 
 ## About
 
@@ -36,4 +50,4 @@ Webnestify focuses on self-hosting, open source tools, and helping you take cont
 
 ---
 
-*See the [Project Board](../../projects) for current production status.*
+*[Video Library](VIDEOS.md) | [Vote on Topics](../../issues) | [Project Board](../../projects)*

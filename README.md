@@ -12,12 +12,12 @@ Popular categories: Self-Hosting | Security | Cloudflare | WordPress | Docker | 
 
 ## Roadmap & Voting
 
-Vote on upcoming video topics to help prioritize content.
+**[View 119 Upcoming Video Ideas](ROADMAP.md)** - Vote on topics you want to see next!
 
 ### How to Vote
 
-1. Browse the [Issues](../../issues) to see proposed video topics
-2. Give a 👍 reaction to topics you want to see
+1. Browse the [Roadmap](ROADMAP.md) or [Issues](../../issues) to see proposed video topics
+2. Click on a topic and give it a :+1: reaction
 3. The most voted topics get prioritized
 
 ### How to Suggest a Topic
@@ -50,4 +50,4 @@ Webnestify focuses on self-hosting, open source tools, and helping you take cont
 
 ---
 
-*[Video Library](VIDEOS.md) | [Vote on Topics](../../issues) | [Project Board](../../projects)*
+*[Video Library](VIDEOS.md) | [Roadmap](ROADMAP.md) | [Vote on Topics](../../issues) | [Project Board](../../projects)*

@@ -2,7 +2,7 @@
 
 Complete catalog of [@webnestify](https://youtube.com/@webnestify) published videos, organized by category for easy discovery.
 
-**128 videos** | **2022 - 2025** | [Subscribe on YouTube](https://youtube.com/@webnestify?sub_confirmation=1)
+**129 videos** | **2022 - 2026** | [Subscribe on YouTube](https://youtube.com/@webnestify?sub_confirmation=1)
 
 ---
 
@@ -12,6 +12,7 @@ Complete list sorted by date (newest first). Click any title to view full descri
 
 | Video | Year | Category |
 |-------|------|----------|
+| [WG Easy with AdGuard Home in Docker - Complete Self-Hosted VPN Setup](videos/2026/wg-easy-with-adguard-home-in-docker-complete-self-hosted) | 2026 | VPN |
 | [Never Lose Data Again - Introducing Backupd.io](videos/2025/never-lose-data-again-introducing-backupdio-best-backups) | 2025 | Backup |
 | [Forget Slack & Install Your Own Zulip Server with Docker](videos/2025/forget-slack-install-your-own-zulip-server-with-docker) | 2025 | Self-Hosting |
 | [Your Data, Your Rules! Nextcloud AIO Installation](videos/2025/your-data-your-rules-nextcloud-aio-installation) | 2025 | Self-Hosting |
@@ -184,6 +185,7 @@ Core self-hosting tutorials and Docker deployments.
 
 | Video | Year |
 |-------|------|
+| [WG Easy with AdGuard Home in Docker - Complete Self-Hosted VPN Setup](videos/2026/wg-easy-with-adguard-home-in-docker-complete-self-hosted) | 2026 |
 | [Definitive Self-Hosting Guide 2025](videos/2025/definitive-self-hosting-guide-2025-secure-efficient-self) | 2025 |
 | [Nextcloud AIO Installation](videos/2025/your-data-your-rules-nextcloud-aio-installation) | 2025 |
 | [NGINX Proxy Manager Guide](videos/2025/ssl-for-everything-your-ultimate-guide-to-nginx-proxy) | 2025 |
@@ -230,6 +232,7 @@ VPN solutions and Zero Trust networking.
 
 | Video | Year |
 |-------|------|
+| [WG Easy with AdGuard Home in Docker - Complete Self-Hosted VPN Setup](videos/2026/wg-easy-with-adguard-home-in-docker-complete-self-hosted) | 2026 |
 | [Pangolin - Zero Trust Access](videos/2025/self-hosting-zero-trust-access-with-pangolin-better-than) | 2025 |
 | [Pangolin Update Guide](videos/2025/keep-your-pangolin-up-to-date-updating-guide) | 2025 |
 | [NextDNS - Modern Firewall](videos/2025/the-new-firewall-for-the-modern-internet-meet-nextdns) | 2025 |

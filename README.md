@@ -2,9 +2,17 @@
 
 Community hub for the [@webnestify](https://youtube.com/@webnestify) YouTube channel.
 
+## Latest Video
+
+[![WG Easy with AdGuard Home in Docker - Complete Self-Hosted VPN Setup](https://img.youtube.com/vi/K2hzkBX8ma8/mqdefault.jpg)](https://www.youtube.com/watch?v=K2hzkBX8ma8)
+
+**[WG Easy with AdGuard Home in Docker - Complete Self-Hosted VPN Setup](videos/2026/wg-easy-with-adguard-home-in-docker-complete-self-hosted)** - [Watch on YouTube](https://www.youtube.com/watch?v=K2hzkBX8ma8)
+
+---
+
 ## Video Library
 
-**[Browse 128 Published Videos](VIDEOS.md)** - Organized by category for easy discovery.
+**[Browse 129 Published Videos](VIDEOS.md)** - Organized by category for easy discovery.
 
 Popular categories: Self-Hosting | Security | Cloudflare | WordPress | Docker | VPN | Monitoring
 

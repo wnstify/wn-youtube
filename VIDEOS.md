@@ -2,7 +2,7 @@
 
 Complete catalog of [@webnestify](https://youtube.com/@webnestify) published videos, organized by category for easy discovery.
 
-**129 videos** | **2022 - 2026** | [Subscribe on YouTube](https://youtube.com/@webnestify?sub_confirmation=1)
+**131 videos** | **2022 - 2026** | [Subscribe on YouTube](https://youtube.com/@webnestify?sub_confirmation=1)
 
 ---
 
@@ -12,6 +12,8 @@ Complete list sorted by date (newest first). Click any title to view full descri
 
 | Video | Year | Category |
 |-------|------|----------|
+| [AppFlowy Cloud Security-Hardened Docker Compose](videos/2026/appflowy-cloud-security-hardened-docker-compose) | 2026 | Security |
+| [Do not use Clawdbot, until you hear this!!! claude clawdbot security ai chatgpt](videos/2026/do-not-use-clawdbot-until-you-hear-this-claude-clawdbot) | 2026 | Security |
 | [WG Easy with AdGuard Home in Docker - Complete Self-Hosted VPN Setup](videos/2026/wg-easy-with-adguard-home-in-docker-complete-self-hosted) | 2026 | VPN |
 | [Never Lose Data Again - Introducing Backupd.io](videos/2025/never-lose-data-again-introducing-backupdio-best-backups) | 2025 | Backup |
 | [Forget Slack & Install Your Own Zulip Server with Docker](videos/2025/forget-slack-install-your-own-zulip-server-with-docker) | 2025 | Self-Hosting |
@@ -206,6 +208,8 @@ Identity providers, password managers, and security hardening.
 
 | Video | Year |
 |-------|------|
+| [AppFlowy Cloud Security-Hardened Docker Compose](videos/2026/appflowy-cloud-security-hardened-docker-compose) | 2026 |
+| [Do not use Clawdbot, until you hear this!!! claude clawdbot security ai chatgpt](videos/2026/do-not-use-clawdbot-until-you-hear-this-claude-clawdbot) | 2026 |
 | [Authentik Setup - Members Exclusive](videos/2025/the-ultimate-guide-to-authentik-setup-exclusive-for) | 2025 |
 | [Open WebUI with Authentik](videos/2025/integrating-open-webui-with-authentik) | 2025 |
 | [Pangolin & Authentik SSO Integration](videos/2025/integrating-pangolin-authentik-a-comprehensive-guide-for) | 2025 |
@@ -276,6 +280,7 @@ Server management, control panels, and hosting infrastructure.
 
 | Video | Year |
 |-------|------|
+| [AppFlowy Cloud Security-Hardened Docker Compose](videos/2026/appflowy-cloud-security-hardened-docker-compose) | 2026 |
 | [Complete Enhance Course 2025](videos/2025/best-dedicated-hosting-2025-complete-enhance-course) | 2025 |
 | [Enhance Advanced Configuration](videos/2025/enhance-advanced-configuration-system-tweaks) | 2025 |
 | [Enhance EP03 - Web Applications](videos/2024/enhance-next-gen-hosting-control-panel-ep03-web-applications) | 2024 |

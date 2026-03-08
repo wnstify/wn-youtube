@@ -2,7 +2,7 @@
 
 Complete catalog of [@webnestify](https://youtube.com/@webnestify) published videos, organized by category for easy discovery.
 
-**131 videos** | **2022 - 2026** | [Subscribe on YouTube](https://youtube.com/@webnestify?sub_confirmation=1)
+**132 videos** | **2022 - 2026** | [Subscribe on YouTube](https://youtube.com/@webnestify?sub_confirmation=1)
 
 ---
 
@@ -12,6 +12,8 @@ Complete list sorted by date (newest first). Click any title to view full descri
 
 | Video | Year | Category |
 |-------|------|----------|
+| [Do not use Clawdbot, until you hear this!!! claude clawdbot security ai chatgpt](videos/2026/do-not-use-clawdbot-until-you-hear-this-claude-clawdbot) | 2026 | Security |
+| [xCloud Server Prep Done Right: Firewalls, Cloud-Init & No API Keys | Part 1](videos/2026/xcloud-server-prep-done-right-firewalls-cloud-init-no-api) | 2026 | Security |
 | [AppFlowy Cloud Security-Hardened Docker Compose](videos/2026/appflowy-cloud-security-hardened-docker-compose) | 2026 | Security |
 | [Do not use Clawdbot, until you hear this!!! claude clawdbot security ai chatgpt](videos/2026/do-not-use-clawdbot-until-you-hear-this-claude-clawdbot) | 2026 | Security |
 | [WG Easy with AdGuard Home in Docker - Complete Self-Hosted VPN Setup](videos/2026/wg-easy-with-adguard-home-in-docker-complete-self-hosted) | 2026 | VPN |
@@ -208,6 +210,8 @@ Identity providers, password managers, and security hardening.
 
 | Video | Year |
 |-------|------|
+| [Do not use Clawdbot, until you hear this!!! claude clawdbot security ai chatgpt](videos/2026/do-not-use-clawdbot-until-you-hear-this-claude-clawdbot) | 2026 |
+| [xCloud Server Prep Done Right: Firewalls, Cloud-Init & No API Keys | Part 1](videos/2026/xcloud-server-prep-done-right-firewalls-cloud-init-no-api) | 2026 |
 | [AppFlowy Cloud Security-Hardened Docker Compose](videos/2026/appflowy-cloud-security-hardened-docker-compose) | 2026 |
 | [Do not use Clawdbot, until you hear this!!! claude clawdbot security ai chatgpt](videos/2026/do-not-use-clawdbot-until-you-hear-this-claude-clawdbot) | 2026 |
 | [Authentik Setup - Members Exclusive](videos/2025/the-ultimate-guide-to-authentik-setup-exclusive-for) | 2025 |
@@ -380,6 +384,7 @@ Workflow automation and marketing tools.
 
 | Video | Year |
 |-------|------|
+| [xCloud Server Prep Done Right: Firewalls, Cloud-Init & No API Keys | Part 1](videos/2026/xcloud-server-prep-done-right-firewalls-cloud-init-no-api) | 2026 |
 | [WordPress Automation with n8n & AI](videos/2025/ai-powered-wordpress-automation-with-deepseek-ai-n8n) | 2025 |
 | [n8n - Zapier Alternative](videos/2023/zapier-alternative-automate-anything-with-foss-n8n) | 2023 |
 | [Mautic Marketing Automation](videos/2023/mautic-installation-best-free-and-open-source-automation) | 2023 |

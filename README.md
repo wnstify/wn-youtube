@@ -4,15 +4,15 @@ Community hub for the [@webnestify](https://youtube.com/@webnestify) YouTube cha
 
 ## Latest Video
 
-[![AppFlowy Cloud Security-Hardened Docker Compose](https://img.youtube.com/vi/kq1apUNmmfY/mqdefault.jpg)](https://youtube.com/watch?v=kq1apUNmmfY)
+[![xCloud Server Prep Done Right: Firewalls, Cloud-Init & No API Keys | Part 1](https://img.youtube.com/vi/ZRumWz0FL4g/mqdefault.jpg)](https://youtube.com/watch?v=ZRumWz0FL4g)
 
-**[AppFlowy Cloud Security-Hardened Docker Compose](videos/2026/appflowy-cloud-security-hardened-docker-compose)** - [Watch on YouTube](https://youtube.com/watch?v=kq1apUNmmfY)
+**[xCloud Server Prep Done Right: Firewalls, Cloud-Init & No API Keys | Part 1](videos/2026/xcloud-server-prep-done-right-firewalls-cloud-init-no-api)** - [Watch on YouTube](https://youtube.com/watch?v=ZRumWz0FL4g)
 
 ---
 
 ## Video Library
 
-**[Browse 131 Published Videos](VIDEOS.md)** - Organized by category for easy discovery.
+**[Browse 132 Published Videos](VIDEOS.md)** - Organized by category for easy discovery.
 
 Popular categories: Self-Hosting | Security | Cloudflare | WordPress | Docker | VPN | Monitoring
 

@@ -4,15 +4,15 @@ Community hub for the [@webnestify](https://youtube.com/@webnestify) YouTube cha
 
 ## Latest Video
 
-[![xCloud Server Prep Done Right: Firewalls, Cloud-Init & No API Keys | Part 1](https://img.youtube.com/vi/ZRumWz0FL4g/mqdefault.jpg)](https://youtube.com/watch?v=ZRumWz0FL4g)
+[![The Only SSH Guide You Need in 2026!](https://img.youtube.com/vi/RqdcUDgq3Ok/mqdefault.jpg)](https://youtube.com/watch?v=RqdcUDgq3Ok)
 
-**[xCloud Server Prep Done Right: Firewalls, Cloud-Init & No API Keys | Part 1](videos/2026/xcloud-server-prep-done-right-firewalls-cloud-init-no-api)** - [Watch on YouTube](https://youtube.com/watch?v=ZRumWz0FL4g)
+**[The Only SSH Guide You Need in 2026!](videos/2026/the-only-ssh-guide-you-need-in-2026)** - [Watch on YouTube](https://youtube.com/watch?v=RqdcUDgq3Ok)
 
 ---
 
 ## Video Library
 
-**[Browse 132 Published Videos](VIDEOS.md)** - Organized by category for easy discovery.
+**[Browse 133 Published Videos](VIDEOS.md)** - Organized by category for easy discovery.
 
 Popular categories: Self-Hosting | Security | Cloudflare | WordPress | Docker | VPN | Monitoring
 

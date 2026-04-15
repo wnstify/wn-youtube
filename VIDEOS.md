@@ -2,7 +2,7 @@
 
 Complete catalog of [@webnestify](https://youtube.com/@webnestify) published videos, organized by category for easy discovery.
 
-**133 videos** | **2022 - 2026** | [Subscribe on YouTube](https://youtube.com/@webnestify?sub_confirmation=1)
+**134 videos** | **2022 - 2026** | [Subscribe on YouTube](https://youtube.com/@webnestify?sub_confirmation=1)
 
 ---
 
@@ -12,6 +12,8 @@ Complete list sorted by date (newest first). Click any title to view full descri
 
 | Video | Year | Category |
 |-------|------|----------|
+| [Do not use Clawdbot, until you hear this!!! claude clawdbot security ai chatgpt](videos/2026/do-not-use-clawdbot-until-you-hear-this-claude-clawdbot) | 2026 | Security |
+| [Zero-Trust SSH for xCloud Servers with Tailscale | Part 2](videos/2026/zero-trust-ssh-for-xcloud-servers-with-tailscale-part-2) | 2026 | VPN |
 | [Do not use Clawdbot, until you hear this!!! claude clawdbot security ai chatgpt](videos/2026/do-not-use-clawdbot-until-you-hear-this-claude-clawdbot) | 2026 | Security |
 | [The Only SSH Guide You Need in 2026!](videos/2026/the-only-ssh-guide-you-need-in-2026) | 2026 | VPN |
 | [Do not use Clawdbot, until you hear this!!! claude clawdbot security ai chatgpt](videos/2026/do-not-use-clawdbot-until-you-hear-this-claude-clawdbot) | 2026 | Security |
@@ -213,6 +215,8 @@ Identity providers, password managers, and security hardening.
 | Video | Year |
 |-------|------|
 | [Do not use Clawdbot, until you hear this!!! claude clawdbot security ai chatgpt](videos/2026/do-not-use-clawdbot-until-you-hear-this-claude-clawdbot) | 2026 |
+| [Zero-Trust SSH for xCloud Servers with Tailscale | Part 2](videos/2026/zero-trust-ssh-for-xcloud-servers-with-tailscale-part-2) | 2026 |
+| [Do not use Clawdbot, until you hear this!!! claude clawdbot security ai chatgpt](videos/2026/do-not-use-clawdbot-until-you-hear-this-claude-clawdbot) | 2026 |
 | [The Only SSH Guide You Need in 2026!](videos/2026/the-only-ssh-guide-you-need-in-2026) | 2026 |
 | [Do not use Clawdbot, until you hear this!!! claude clawdbot security ai chatgpt](videos/2026/do-not-use-clawdbot-until-you-hear-this-claude-clawdbot) | 2026 |
 | [xCloud Server Prep Done Right: Firewalls, Cloud-Init & No API Keys | Part 1](videos/2026/xcloud-server-prep-done-right-firewalls-cloud-init-no-api) | 2026 |
@@ -244,6 +248,7 @@ VPN solutions and Zero Trust networking.
 
 | Video | Year |
 |-------|------|
+| [Zero-Trust SSH for xCloud Servers with Tailscale | Part 2](videos/2026/zero-trust-ssh-for-xcloud-servers-with-tailscale-part-2) | 2026 |
 | [The Only SSH Guide You Need in 2026!](videos/2026/the-only-ssh-guide-you-need-in-2026) | 2026 |
 | [WG Easy with AdGuard Home in Docker - Complete Self-Hosted VPN Setup](videos/2026/wg-easy-with-adguard-home-in-docker-complete-self-hosted) | 2026 |
 | [Pangolin - Zero Trust Access](videos/2025/self-hosting-zero-trust-access-with-pangolin-better-than) | 2025 |

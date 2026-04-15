@@ -4,15 +4,15 @@ Community hub for the [@webnestify](https://youtube.com/@webnestify) YouTube cha
 
 ## Latest Video
 
-[![The Only SSH Guide You Need in 2026!](https://img.youtube.com/vi/RqdcUDgq3Ok/mqdefault.jpg)](https://youtube.com/watch?v=RqdcUDgq3Ok)
+[![Zero-Trust SSH for xCloud Servers with Tailscale | Part 2](https://img.youtube.com/vi/C4rEItDk604/mqdefault.jpg)](https://youtube.com/watch?v=C4rEItDk604)
 
-**[The Only SSH Guide You Need in 2026!](videos/2026/the-only-ssh-guide-you-need-in-2026)** - [Watch on YouTube](https://youtube.com/watch?v=RqdcUDgq3Ok)
+**[Zero-Trust SSH for xCloud Servers with Tailscale | Part 2](videos/2026/zero-trust-ssh-for-xcloud-servers-with-tailscale-part-2)** - [Watch on YouTube](https://youtube.com/watch?v=C4rEItDk604)
 
 ---
 
 ## Video Library
 
-**[Browse 133 Published Videos](VIDEOS.md)** - Organized by category for easy discovery.
+**[Browse 134 Published Videos](VIDEOS.md)** - Organized by category for easy discovery.
 
 Popular categories: Self-Hosting | Security | Cloudflare | WordPress | Docker | VPN | Monitoring
 

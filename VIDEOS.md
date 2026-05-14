@@ -2,7 +2,7 @@
 
 Complete catalog of [@webnestify](https://youtube.com/@webnestify) published videos, organized by category for easy discovery.
 
-**134 videos** | **2022 - 2026** | [Subscribe on YouTube](https://youtube.com/@webnestify?sub_confirmation=1)
+**135 videos** | **2022 - 2026** | [Subscribe on YouTube](https://youtube.com/@webnestify?sub_confirmation=1)
 
 ---
 
@@ -12,6 +12,8 @@ Complete list sorted by date (newest first). Click any title to view full descri
 
 | Video | Year | Category |
 |-------|------|----------|
+| [Do not use Clawdbot, until you hear this!!! claude clawdbot security ai chatgpt](videos/2026/do-not-use-clawdbot-until-you-hear-this-claude-clawdbot) | 2026 | Security |
+| [Self-Host Stoat: Secure Discord Alternative (No Age Verification)](videos/2026/self-host-stoat-secure-discord-alternative-no-age) | 2026 | Self-Hosting |
 | [Do not use Clawdbot, until you hear this!!! claude clawdbot security ai chatgpt](videos/2026/do-not-use-clawdbot-until-you-hear-this-claude-clawdbot) | 2026 | Security |
 | [Zero-Trust SSH for xCloud Servers with Tailscale | Part 2](videos/2026/zero-trust-ssh-for-xcloud-servers-with-tailscale-part-2) | 2026 | VPN |
 | [Do not use Clawdbot, until you hear this!!! claude clawdbot security ai chatgpt](videos/2026/do-not-use-clawdbot-until-you-hear-this-claude-clawdbot) | 2026 | Security |
@@ -193,6 +195,7 @@ Core self-hosting tutorials and Docker deployments.
 
 | Video | Year |
 |-------|------|
+| [Self-Host Stoat: Secure Discord Alternative (No Age Verification)](videos/2026/self-host-stoat-secure-discord-alternative-no-age) | 2026 |
 | [WG Easy with AdGuard Home in Docker - Complete Self-Hosted VPN Setup](videos/2026/wg-easy-with-adguard-home-in-docker-complete-self-hosted) | 2026 |
 | [Definitive Self-Hosting Guide 2025](videos/2025/definitive-self-hosting-guide-2025-secure-efficient-self) | 2025 |
 | [Nextcloud AIO Installation](videos/2025/your-data-your-rules-nextcloud-aio-installation) | 2025 |
@@ -214,6 +217,7 @@ Identity providers, password managers, and security hardening.
 
 | Video | Year |
 |-------|------|
+| [Do not use Clawdbot, until you hear this!!! claude clawdbot security ai chatgpt](videos/2026/do-not-use-clawdbot-until-you-hear-this-claude-clawdbot) | 2026 |
 | [Do not use Clawdbot, until you hear this!!! claude clawdbot security ai chatgpt](videos/2026/do-not-use-clawdbot-until-you-hear-this-claude-clawdbot) | 2026 |
 | [Zero-Trust SSH for xCloud Servers with Tailscale | Part 2](videos/2026/zero-trust-ssh-for-xcloud-servers-with-tailscale-part-2) | 2026 |
 | [Do not use Clawdbot, until you hear this!!! claude clawdbot security ai chatgpt](videos/2026/do-not-use-clawdbot-until-you-hear-this-claude-clawdbot) | 2026 |

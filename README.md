@@ -4,15 +4,15 @@ Community hub for the [@webnestify](https://youtube.com/@webnestify) YouTube cha
 
 ## Latest Video
 
-[![Zero-Trust SSH for xCloud Servers with Tailscale | Part 2](https://img.youtube.com/vi/C4rEItDk604/mqdefault.jpg)](https://youtube.com/watch?v=C4rEItDk604)
+[![Self-Host Stoat: Secure Discord Alternative (No Age Verification)](https://img.youtube.com/vi/toD0brgt4b0/mqdefault.jpg)](https://youtube.com/watch?v=toD0brgt4b0)
 
-**[Zero-Trust SSH for xCloud Servers with Tailscale | Part 2](videos/2026/zero-trust-ssh-for-xcloud-servers-with-tailscale-part-2)** - [Watch on YouTube](https://youtube.com/watch?v=C4rEItDk604)
+**[Self-Host Stoat: Secure Discord Alternative (No Age Verification)](videos/2026/self-host-stoat-secure-discord-alternative-no-age)** - [Watch on YouTube](https://youtube.com/watch?v=toD0brgt4b0)
 
 ---
 
 ## Video Library
 
-**[Browse 134 Published Videos](VIDEOS.md)** - Organized by category for easy discovery.
+**[Browse 135 Published Videos](VIDEOS.md)** - Organized by category for easy discovery.
 
 Popular categories: Self-Hosting | Security | Cloudflare | WordPress | Docker | VPN | Monitoring
 
